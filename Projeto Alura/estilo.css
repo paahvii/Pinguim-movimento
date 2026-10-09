@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+
+.title-center {
+    padding: 20px;
+}
+
+.tudo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 500;
+    height: 500; */
+    background-color: burlywood;
+}
